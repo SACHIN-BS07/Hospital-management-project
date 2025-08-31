@@ -1,4 +1,5 @@
 # Hospital-management-project
+It is project make doctors to easy for knowing patients and early payments .
 
 <!DOCTYPE html>
 <html lang="en">
